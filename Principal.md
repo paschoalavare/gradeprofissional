@@ -1,3 +1,9 @@
+<!Doctype html>
+<html lang="pt-br">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<html>
+  
 <h1>CONHEÇA MINHA CARREIRA PROFISSIONAL!</h1>
 <T></T>
 <b> Prazer, meu nome é Alexandre Paschoal venho através de minha página trazer à vocês uma demosntração e minha carreira profissional!<b>
@@ -12,5 +18,73 @@
 </p>
 
 <h2>GRADUAÇÃO (ENSINO SUPERIOR)</h2>
-<T></T>
-<
+<text>Conheça um pouco sobre minha graduação de ensino superior</tex>
+<a href="https://www.imperiodopiso.com.br">Certificação | Faculdade Eduvale de Avaré | Administração de Empresas</a>
+<T>
+<br>
+<br>
+<br>
+
+<h2>CERTIFICAÇÕES EM LINGUA PORTUGUESA</h2>
+<text>Conheça minha grade profissional em</tex>
+<a href="https://www.imperiodopiso.com.br">"Lingua Portuguesa"</a>
+<T>
+<br>
+<br>
+<br>
+
+<h2>CERTIFICAÇÕES EM GESTÃO DE REDE SOCIAIS</h2>
+<text>Conheça minha grade profissional em</tex>
+<a href="https://www.imperiodopiso.com.br">"Lingua Portuguesa"</a>
+<T>
+<br>
+<br>
+<br>
+  
+<h2>CERTIFICAÇÕES EM GESTÃO DE TRÁFEGO PAGO</h2>
+<text>Conheça minha grade profissional em</tex>
+<a href="https://www.imperiodopiso.com.br">"Gestão de Tráfego Pago"</a>
+<T>
+<br>
+<br>
+<br>
+
+<h2>CERTIFICAÇÕES EM SOCIAL MEDIA</h2>
+<text>Conheça minha grade profissional em</tex>
+<a href="https://www.imperiodopiso.com.br">"Social Media"</a>
+
+<br> Toda organização e análise de contextos que sempre estão de acordo com todas as diretrizes de privacidade do "Facebook" e "Instagram", fundamental para estar trazendo produtividade e interação com os posts estratégicamente elaborados! 
+<T>
+<br>
+  
+<T>
+<br>
+<br>
+<br>
+
+  
+<h2>CERTIFICAÇÕES EM TECNOLOGIA LINGUAGENS DE PROGRAMAÇÃO</h2>
+<text>Conheça minha grade profissional em</tex>
+<a href="https://www.imperiodopiso.com.br">"HTML, PHP, CSS, PHYTON, ANDROID, JAVA, JAVA SCRIPT"</a>
+
+<br> Desenvolvimento de plataformas e aplicativos até elaboração de relatórios simples para navegação e interação com o celular através de várias liguagens utilizadas em analise de sistemas!</br>
+<T>
+<br>
+<br>
+<br>
+  
+<h2>CERTIFICAÇÕES EM CIBERSEGURANÇA</h2>
+<text>Conheça minha grade profissional em</tex>
+<a href="https://www.imperiodopiso.com.br">"CIBERSEGURANÇA"</a>
+
+<br> Toda segurança fornecida de forma legal e devida e testada à sistema de investigação contendo segurança e invasão para resolução e busca criminal e acolhimento de provas!</br>
+
+<T>
+<br>
+<br>
+<br>
+
+
+
+</html>
+
