@@ -11,3 +11,6 @@
 <ls><img src="https://github.com/paschoalavare/gradeprofissional/assets/101903228/f5771373-7a70-4a89-9457-2bb76bd2fbb9" width="300" /></ls>
 </p>
 
+<h2>GRADUAÇÃO (ENSINO SUPERIOR)</h2>
+<T></T>
+<
