@@ -8,7 +8,7 @@
 <T></T>
 <b> Prazer, meu nome é Alexandre Paschoal venho através de minha página trazer à vocês uma demosntração e minha carreira profissional!<b>
 <p></p>
-  
+    
 <b>Toda história começa em uma longa jornada de estudos, começando desde cursos básicos até uma graduação, estou trazendo minha grade curricular seja para você um profissional,cliente ou uma pessoa que queira conhcer um pouco mais sobre nossa empresa!</b>
 <b>Toda carreira tem sua história começamos tudo do zero e fruto de muito esforço!</b>
 
@@ -21,9 +21,12 @@
 <text>Conheça um pouco sobre minha graduação de ensino superior</tex>
 <a href="https://www.imperiodopiso.com.br">Certificação | Faculdade Eduvale de Avaré | Administração de Empresas</a>
 <T>
+
 <br>
-<br>
-<br>
+<br>Graduação de Ensino Superior:</br>
+<b>Faculdade Eduvale de Avaré</br>
+<b>Administração de Empresas</br>
+2007 a 2010</br>
 
 <h2>CERTIFICAÇÕES EM LINGUA PORTUGUESA</h2>
 <text>Conheça minha grade profissional em</tex>
