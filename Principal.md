@@ -82,6 +82,11 @@ Ano 2023.</br>
 <b>Banco Bradesco.</br>
 <b>Período 26 horas.</br>
 Ano 2023.</br>
+
+<br>Introdução a JAVASCRIPT.</br>
+<b>Banco Bradesco.</br>
+<b>Período 20 horas.</br>
+Ano 2023.</br>
   
 <h2>CERTIFICAÇÕES EM CIBERSEGURANÇA</h2>
 <text>Conheça minha grade profissional em</tex>
