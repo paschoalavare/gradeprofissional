@@ -99,6 +99,16 @@ Ano 2023.</br>
 <b>Período 3 horas.</br>
 Ano 2023.</br>
 
+<br>Princípios de Desenvolvimento de Software.</br>
+<b>Certification Program.</br>
+<b>Período 6 horas.</br>
+Ano 2023.</br>
+
+<br>Conhecendo o Kotlin e Sua Documentação Oficial.</br>
+<b>Certification Program.</br>
+<b>Período 1 horas.</br>
+Ano 2023.</br>
+
 <h2>CERTIFICAÇÕES EM CIBERSEGURANÇA</h2>
 <text>Conheça minha grade profissional em</tex>
 <a href="https://www.imperiodopiso.com.br">"CIBERSEGURANÇA"</a>
