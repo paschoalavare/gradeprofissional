@@ -268,10 +268,80 @@ Ano 2023.</br>
 
 <T>
 <br>
-<br>
-<br>
+<br>Aula Inaugural - Santander Bootcamp Cibersegurança.</br>
+<b>Banco Stander.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
 
+<br>Princípios de Desenvolvimento Ágil e Colaborativo.</br>
+<b>Banco Stander.</br>
+<b>Período 12 horas.</br>
+Ano 2023.</br>
 
+<br>A Linguagem é um Detalhe... Aprendendo Lógica com Desafios de Código.</br>
+<b>Banco Stander.</br>
+<b>Período 6 horas.</br>
+Ano 2023.</br>
+
+<br>Príncipios da Cibersegurança.</br>
+<b>Banco Stander.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais.</br>
+<b>Banco Stander.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Fundamentos de Redes de Computadores.</br>
+<b>Banco Stander.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Fundamentos de Redes de Computadores.</br>
+<b>Banco Stander.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Introdução à Deep Web e Anonimato.</br>
+<b>Banco Stander.</br>
+<b>Período 1 horas.</br>
+Ano 2023.</br>
+
+<br>Fundamentos de Cibersegurança.</br>
+<b>Banco Stander.</br>
+<b>Período 6 horas.</br>
+Ano 2023.</br>
+
+<br>Fundamentos de Testes de Invasão (Pentest).</br>
+<b>Banco Stander.</br>
+<b>Período 1 horas.</br>
+Ano 2023.</br>
+
+<br>Introdução à Coleta e Análise de Segurança Cibernética.</br>
+<b>Banco Stander.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Tópicos em Engenharia Social.</br>
+<b>Banco Stander.</br>
+<b>Período 1 horas.</br>
+Ano 2023.</br>
+
+<br>Conceitos e Técnicas de Varredura de Rede.</br>
+<b>Banco Stander.</br>
+<b>Período 1 horas.</br>
+Ano 2023.</br>
+
+<br>Princípios de Enumeração e Exploração de Vulnerabilidades.</br>
+<b>Banco Stander.</br>
+<b>Período 1 horas.</br>
+Ano 2023.</br>
+
+<br>Criação de um Phishing com o Kali Linux.</br>
+<b>Banco Stander.</br>
+<b>Período 1 horas.</br>
+Ano 2023.</br>
 
 </html>
 
