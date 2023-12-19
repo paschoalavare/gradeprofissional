@@ -39,8 +39,7 @@
 <h2>CERTIFICAÇÕES EM GESTÃO DE REDE SOCIAIS</h2>
 <text>Conheça minha grade profissional em Gestão de Redes Sociais.</tex>
 <T>
-<br>
-<br>
+
 <br>Experiência de Conteúdo Interativo</br>
 <b>Rock University</br>
 <b>Período de 2 horas.</br>
