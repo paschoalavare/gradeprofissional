@@ -109,6 +109,157 @@ Ano 2023.</br>
 <b>Período 1 horas.</br>
 Ano 2023.</br>
 
+<br>Introdução Prática à Linguagem de Programação Kotlin</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Estruturas de Controle de Fluxo e Coleções em Kotlin.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Orientação a Objetos e Tipos de Classes na Prática com Kotlin.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>O Poder das Funções em Kotlin.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Tratamento de Exceções em Kotlin.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional.</br>
+<b>Certification Program.</br>
+<b>Período 1 horas.</br>
+Ano 2023.</br>
+
+<br>Resolvendo Seus Primeiros Desafios de Código.</br>
+<b>Certification Program.</br>
+<b>Período 6 horas.</br>
+Ano 2023.</br>
+
+<br>Visão Geral do Mercado de Desenvolvimento Mobile.</br>
+<b>Certification Program.</br>
+<b>Período 1 horas.</br>
+Ano 2023.</br>
+
+<br>Instalando e Configurando o Android Studio.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Entendendo a Estrutura e Depurando Apps Android.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Praticando Sua Abstração no Domínio Bancário.</br>
+<b>Certification Program.</br>
+<b>Período 5 horas.</br>
+Ano 2023.</br>
+
+<br>Manipulando Entradas do Usuário em Apps Android.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Fundamentos de Multiscreen em Apps Android.</br>
+<b>Certification Program.</br>
+<b>Período 3 horas.</br>
+Ano 2023.</br>
+
+<br>Noções Básicas de Rede em Apps Android com Kotlin.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Armazenamento de Dados Essencial em Apps Android com Kotlin.</br>
+<b>Certification Program.</br>
+<b>Período 3 horas.</br>
+Ano 2023.</br>
+
+<br>Criando um App Android para Compartilhar seu Portfólio de Projetos.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Introdução ao Desenvolvimento Mobile com Kotlin.</br>
+<b>Certification Program.</br>
+<b>Período 21 horas.</br>
+Ano 2023.</br>
+
+<br>Injeção de Dependências no Android com Hilt.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Programação em Segundo Plano no Android com WorkManager.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Interfaces de Usuário Dinâmicas no Android com Jetpack Compose.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Visão Geral Sobre o Android Jetpack.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Explorando Componentes do Material Design em Apps Android.</br>
+<b>Certification Program.</br>
+<b>Período 3 horas.</br>
+Ano 2023.</br>
+
+<br>Simplificando a Persistência de Dados no Android com Room.</br>
+<b>Certification Program.</br>
+<b>Período 3 horas.</br>
+Ano 2023.</br>
+
+<br>Ciclo de Vida Android ViewModel, LiveData e Coroutines.</br>
+<b>Certification Program.</br>
+<b>Período 4 horas.</br>
+Ano 2023.</br>
+
+<br>Gerenciando o Fluxo de Navegação de Apps Android.</br>
+<b>Certification Program.</br>
+<b>Período 2 horas.</br>
+Ano 2023.</br>
+
+<br>Ganhando Produtividade com o Android Jetpack.</br>
+<b>Certification Program.</br>
+<b>Período 25 horas.</br>
+Ano 2023.</br>
+
+<br>Ganhando Produtividade com o Android Jetpack.</br>
+<b>Certification Program.</br>
+<b>Período 25 horas.</br>
+Ano 2023.</br>
+
+<br>Explore o Android Jetpack Para Não Perder Nenhum Jogo do Brasil na Copa.</br>
+<b>Certification Program.</br>
+<b>Período 4 horas.</br>
+Ano 2023.</br>
+
+
+<br>Santander Bootcamp 2023 -  Mobile Android com Kotlin.</br>
+<b>Certification Program.</br>
+<b>Período 98 horas.</br>
+Ano 2023.</br>
+
 <h2>CERTIFICAÇÕES EM CIBERSEGURANÇA</h2>
 <text>Conheça minha grade profissional em</tex>
 <a href="https://www.imperiodopiso.com.br">"CIBERSEGURANÇA"</a>
