@@ -93,7 +93,12 @@ Ano 2023.</br>
 <b>Banco Bradesco.</br>
 <b>Período 5 horas.</br>
 Ano 2023.</br>
-  
+
+<br>Introdução ao Git e ao GitHub.</br>
+<b>Certification Program.</br>
+<b>Período 3 horas.</br>
+Ano 2023.</br>
+
 <h2>CERTIFICAÇÕES EM CIBERSEGURANÇA</h2>
 <text>Conheça minha grade profissional em</tex>
 <a href="https://www.imperiodopiso.com.br">"CIBERSEGURANÇA"</a>
