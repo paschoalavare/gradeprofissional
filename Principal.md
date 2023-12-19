@@ -37,8 +37,7 @@
 <br>
 
 <h2>CERTIFICAÇÕES EM GESTÃO DE REDE SOCIAIS</h2>
-<text>Conheça minha grade profissional em</tex>
-<a href="https://www.imperiodopiso.com.br">"Lingua Portuguesa"</a>
+<text>Conheça minha grade profissional em</tex><l>Gestão de Redes Sociais.
 <T>
 <br>
 <br>
