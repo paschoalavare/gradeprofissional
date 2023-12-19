@@ -37,7 +37,7 @@
 <br>
 
 <h2>CERTIFICAÇÕES EM GESTÃO DE REDE SOCIAIS</h2>
-<text>Conheça minha grade profissional em</tex><l>Gestão de Redes Sociais.
+<text>Conheça minha grade profissional em Gestão de Redes Sociais.</tex>
 <T>
 <br>
 <br>
