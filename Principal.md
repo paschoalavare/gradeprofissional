@@ -72,10 +72,7 @@
 
 <br> Desenvolvimento de plataformas e aplicativos até elaboração de relatórios simples para navegação e interação com o celular através de várias liguagens utilizadas em analise de sistemas!</br>
 <T>
-<br>
 
-
-<br>
 <br>Inovando com CSS.</br>
 <b>Banco Bradesco.</br>
 <b>Período 26 horas.</br>
