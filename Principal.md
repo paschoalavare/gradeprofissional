@@ -42,7 +42,10 @@
 <T>
 <br>
 <br>
-<br>
+<br>Experiência de Conteúdo Interativo</br>
+<b>Rock University</br>
+<b>Período de 2 horas.</br>
+Ano 2023.</br>
   
 <h2>CERTIFICAÇÕES EM GESTÃO DE TRÁFEGO PAGO</h2>
 <text>Conheça minha grade profissional em</tex>
