@@ -28,13 +28,56 @@
 <b>Administração de Empresas</br>
 2007 a 2010</br>
 
-<h2>CERTIFICAÇÕES EM LINGUA PORTUGUESA</h2>
-<text>Conheça minha grade profissional em</tex>
-<a href="https://www.imperiodopiso.com.br">"Lingua Portuguesa"</a>
+<h2>CERTIFICAÇÕES EM ADMINISTRAÇÃO</h2>
+<text>Conheça a minha grade profissional em "Administração de Empresas":</text>
+<br>
+<br>Encontro Regional de Administração de Avaré.</br>
+<b>Sebrae SP.</br>
+<b>Período 15 horas.</br>
+Ano 2006.</br>
+
+<br>Redação.</br>
+<b>Fundação Regional Educacional de Avaré.</br>
+<b>Período 20 horas.</br>
+Ano 2002.</br>
 <T>
 <br>
 <br>
 <br>
+
+<h2>CERTIFICAÇÕES EM LINGUA PORTUGUESA</h2>
+<text>Conheça a minha grade profissional em "Lingua Portuguesa":</text>
+<br>
+<br>Interpretação de Texto.</br>
+<b>Fundação Regional Educacional de Avaré.</br>
+<b>Período 20 horas.</br>
+Ano 2002.</br>
+
+<br>Redação.</br>
+<b>Fundação Regional Educacional de Avaré.</br>
+<b>Período 20 horas.</br>
+Ano 2002.</br>
+<T>
+<br>
+<br>
+<br>
+
+<h2>CERTIFICAÇÕES EM VENDAS</h2>
+<text>Conheça minha grade profissional em Vendas.</tex>
+<T>
+
+<br>Vendas</br>
+<b>Worktek</br>
+Ano 2006.</br>
+
+<br>Markting Pessoal</br>
+<b>Worktek</br>
+Ano 2006.</br>
+
+<br>Vendas e Atendimento ao Cliente</br>
+<b>Worktek</br>
+<b>Período 52 horas.</br>
+Ano 2006.</br>
 
 <h2>CERTIFICAÇÕES EM GESTÃO DE REDE SOCIAIS</h2>
 <text>Conheça minha grade profissional em Gestão de Redes Sociais.</tex>
@@ -44,6 +87,14 @@
 <b>Rock University</br>
 <b>Período de 2 horas.</br>
 Ano 2023.</br>
+
+<br>Os segredos por trás de um instagram vendedor"</br>
+<b>Sebrae</br>
+Ano 2020.</br>
+
+<br>Marketing Digital - Módulo 1""</br>
+<b>Sebrae</br>
+Ano 2020.</br>
   
 <h2>CERTIFICAÇÕES EM GESTÃO DE TRÁFEGO PAGO</h2>
 <text>Conheça minha grade profissional em</tex>
@@ -73,6 +124,27 @@ Ano 2023.</br>
 
 <br> Desenvolvimento de plataformas e aplicativos até elaboração de relatórios simples para navegação e interação com o celular através de várias liguagens utilizadas em analise de sistemas!</br>
 <T>
+
+
+<br>Flash MX, Aux. de Departamento Pessoal.</br>
+<b>Microvip</br>
+<b>Período 48 horas.</br>
+Ano 2005.</br>
+
+<br>Windows 98, Word 97, PowerPoint 97  e Internet.</br>
+<b>Microvip</br>
+<b>Período 64 horas.</br>
+Ano 2000.</br>
+
+<br>Excel 2000, Corel Draw 9, Page Maker 6.5.</br>
+<b>Microvip</br>
+<b>Período 62 horas.</br>
+Ano 2001.</br>
+
+<br>Acces 2000 e Visual Basic 5.0.</br>
+<b>Microvip</br>
+<b>Período 62 horas.</br>
+Ano 2002.</br>
 
 <br>Criando um Projeto com HTML/CSS para Listagem de Pokémon.</br>
 <b>Certification Program</br>
