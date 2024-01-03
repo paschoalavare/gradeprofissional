@@ -95,6 +95,10 @@ Ano 2020.</br>
 <br>Marketing Digital - Módulo 1</br>
 <b>Sebrae</br>
 Ano 2020.</br>
+
+<br>Marketing Digital - Módulo 2</br>
+<b>Sebrae</br>
+Ano 2020.</br>
   
 <h2>CERTIFICAÇÕES EM GESTÃO DE TRÁFEGO PAGO</h2>
 <text>Conheça minha grade profissional em</tex>
