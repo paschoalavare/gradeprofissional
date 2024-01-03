@@ -99,7 +99,15 @@ Ano 2020.</br>
 <br>Marketing Digital - Módulo 2</br>
 <b>Sebrae</br>
 Ano 2020.</br>
-  
+
+<br>Marketing Digital - Módulo 3</br>
+<b>Sebrae</br>
+Ano 2020.</br>
+
+<br>Marketing Digital - Módulo 4</br>
+<b>Sebrae</br>
+Ano 2020.</br>
+
 <h2>CERTIFICAÇÕES EM GESTÃO DE TRÁFEGO PAGO</h2>
 <text>Conheça minha grade profissional em</tex>
 <a href="https://www.imperiodopiso.com.br">"Gestão de Tráfego Pago"</a>
