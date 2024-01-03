@@ -92,7 +92,7 @@ Ano 2023.</br>
 <b>Sebrae</br>
 Ano 2020.</br>
 
-<br>Marketing Digital - Módulo 1""</br>
+<br>Marketing Digital - Módulo 1</br>
 <b>Sebrae</br>
 Ano 2020.</br>
   
