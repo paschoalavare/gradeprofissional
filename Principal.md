@@ -443,8 +443,57 @@ Ano 2023.</br>
 <b>Período 53 horas.</br>
 Ano 2023.</br>
 
+=================================================================
+=================================================================
 
+<br>Fortalecendo Seu Perfil Profissional.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
 
+<br>Conhecendo a Formação de Cibersegurança.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Conhecendo a Formação de Cibersegurança.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Materiais Complementares: Fundamentos de Cibersegurança.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Fundamentos de Cibersegurança.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Materiais Complementares: Pentest e Busca de Vulnerabilidades.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Testes de Invasão e Busca Por Vulnerabilidadess.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Materiais Complementares - Exploração e Pós Exploração.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Avalie a Formação Cybersecurity Specialist.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Exploração de Vulnerabilidade e Pós-Exploração.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Introdução à Coleta e Análise de Segurança Cibernética.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Formação Cybersecurity Specialist.</br>
+<b>Banco Stander.</br>
+<b>Período 22 horas.</br>
+Ano 2023.</br>
 
 </html>
 
