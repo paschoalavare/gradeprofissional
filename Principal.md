@@ -28,6 +28,11 @@
 <b>Administração de Empresas</br>
 2007 a 2010</br>
 
+<br>Educa Minas:</br>
+<b>Pós Graduação</br>
+<b>Agronegócio</br>
+2024</br>
+
 <h2>CERTIFICAÇÕES EM ADMINISTRAÇÃO</h2>
 <text>Conheça a minha grade profissional em "Administração de Empresas":</text>
 <br>
