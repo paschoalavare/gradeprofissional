@@ -117,6 +117,11 @@ Ano 2020.</br>
 <text>Conheça minha grade profissional em</tex>
 <a href="https://www.imperiodopiso.com.br">"Gestão de Tráfego Pago"</a>
 <T>
+
+<br>Facebook ADS e Instagram ADS de alta Performance.</br>
+<b>Udemy</br>
+Ano 2021.</br>
+
 <br>
 <br>
 <br>
