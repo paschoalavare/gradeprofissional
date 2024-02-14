@@ -133,7 +133,11 @@ Ano 2021.</br>
 <br> Toda organização e análise de contextos que sempre estão de acordo com todas as diretrizes de privacidade do "Facebook" e "Instagram", fundamental para estar trazendo produtividade e interação com os posts estratégicamente elaborados! 
 <T>
 <br>
-  
+
+<br>Social Media Expert 2024.</br>
+<b>Udemy</br>
+Ano 2024.</br>
+
 <T>
 <br>
 <br>
