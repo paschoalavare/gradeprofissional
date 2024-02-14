@@ -185,102 +185,82 @@ Ano 2023.</br>
 
 <br>Introdução ao Git e ao GitHub.</br>
 <b>Certification Program.</br>
-<b>Período 3 horas.</br>
 Ano 2023.</br>
 
 <br>Princípios de Desenvolvimento de Software.</br>
 <b>Certification Program.</br>
-<b>Período 6 horas.</br>
 Ano 2023.</br>
 
 <br>Conhecendo o Kotlin e Sua Documentação Oficial.</br>
 <b>Certification Program.</br>
-<b>Período 1 horas.</br>
 Ano 2023.</br>
 
 <br>Introdução Prática à Linguagem de Programação Kotlin</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Estruturas de Controle de Fluxo e Coleções em Kotlin.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Orientação a Objetos e Tipos de Classes na Prática com Kotlin.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>O Poder das Funções em Kotlin.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Tratamento de Exceções em Kotlin.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional.</br>
 <b>Certification Program.</br>
-<b>Período 1 horas.</br>
 Ano 2023.</br>
 
 <br>Resolvendo Seus Primeiros Desafios de Código.</br>
 <b>Certification Program.</br>
-<b>Período 6 horas.</br>
 Ano 2023.</br>
 
 <br>Visão Geral do Mercado de Desenvolvimento Mobile.</br>
 <b>Certification Program.</br>
-<b>Período 1 horas.</br>
 Ano 2023.</br>
 
 <br>Instalando e Configurando o Android Studio.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Entendendo a Estrutura e Depurando Apps Android.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Praticando Sua Abstração no Domínio Bancário.</br>
 <b>Certification Program.</br>
-<b>Período 5 horas.</br>
 Ano 2023.</br>
 
 <br>Manipulando Entradas do Usuário em Apps Android.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Fundamentos de Multiscreen em Apps Android.</br>
 <b>Certification Program.</br>
-<b>Período 3 horas.</br>
 Ano 2023.</br>
 
 <br>Noções Básicas de Rede em Apps Android com Kotlin.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Armazenamento de Dados Essencial em Apps Android com Kotlin.</br>
 <b>Certification Program.</br>
-<b>Período 3 horas.</br>
 Ano 2023.</br>
 
 <br>Criando um App Android para Compartilhar seu Portfólio de Projetos.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Introdução ao Desenvolvimento Mobile com Kotlin.</br>
@@ -290,47 +270,38 @@ Ano 2023.</br>
 
 <br>Injeção de Dependências no Android com Hilt.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Programação em Segundo Plano no Android com WorkManager.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Interfaces de Usuário Dinâmicas no Android com Jetpack Compose.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Visão Geral Sobre o Android Jetpack.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Explorando Componentes do Material Design em Apps Android.</br>
 <b>Certification Program.</br>
-<b>Período 3 horas.</br>
 Ano 2023.</br>
 
 <br>Simplificando a Persistência de Dados no Android com Room.</br>
 <b>Certification Program.</br>
-<b>Período 3 horas.</br>
 Ano 2023.</br>
 
 <br>Ciclo de Vida Android ViewModel, LiveData e Coroutines.</br>
 <b>Certification Program.</br>
-<b>Período 4 horas.</br>
 Ano 2023.</br>
 
 <br>Gerenciando o Fluxo de Navegação de Apps Android.</br>
 <b>Certification Program.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Ganhando Produtividade com o Android Jetpack.</br>
 <b>Certification Program.</br>
-<b>Período 25 horas.</br>
 Ano 2023.</br>
 
 <br>Ganhando Produtividade com o Android Jetpack.</br>
@@ -340,7 +311,6 @@ Ano 2023.</br>
 
 <br>Explore o Android Jetpack Para Não Perder Nenhum Jogo do Brasil na Copa.</br>
 <b>Certification Program.</br>
-<b>Período 4 horas.</br>
 Ano 2023.</br>
 
 
@@ -359,7 +329,6 @@ Ano 2023.</br>
 <br>
 <br>Aula Inaugural - Santander Bootcamp Cibersegurança.</br>
 <b>Banco Stander.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Princípios de Desenvolvimento Ágil e Colaborativo.</br>
@@ -374,62 +343,50 @@ Ano 2023.</br>
 
 <br>Príncipios da Cibersegurança.</br>
 <b>Banco Stander.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais.</br>
 <b>Banco Stander.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Fundamentos de Redes de Computadores.</br>
 <b>Banco Stander.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Fundamentos de Redes de Computadores.</br>
 <b>Banco Stander.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Introdução à Deep Web e Anonimato.</br>
 <b>Banco Stander.</br>
-<b>Período 1 horas.</br>
 Ano 2023.</br>
 
 <br>Fundamentos de Cibersegurança.</br>
 <b>Banco Stander.</br>
-<b>Período 6 horas.</br>
 Ano 2023.</br>
 
 <br>Fundamentos de Testes de Invasão (Pentest).</br>
 <b>Banco Stander.</br>
-<b>Período 1 horas.</br>
 Ano 2023.</br>
 
 <br>Introdução à Coleta e Análise de Segurança Cibernética.</br>
 <b>Banco Stander.</br>
-<b>Período 2 horas.</br>
 Ano 2023.</br>
 
 <br>Tópicos em Engenharia Social.</br>
 <b>Banco Stander.</br>
-<b>Período 1 horas.</br>
 Ano 2023.</br>
 
 <br>Conceitos e Técnicas de Varredura de Rede.</br>
 <b>Banco Stander.</br>
-<b>Período 1 horas.</br>
 Ano 2023.</br>
 
 <br>Princípios de Enumeração e Exploração de Vulnerabilidades.</br>
 <b>Banco Stander.</br>
-<b>Período 1 horas.</br>
 Ano 2023.</br>
 
 <br>Criação de um Phishing com o Kali Linux.</br>
 <b>Banco Stander.</br>
-<b>Período 1 horas.</br>
 Ano 2023.</br>
 
 </html>
