@@ -28,8 +28,8 @@
 <b>Administração de Empresas</br>
 2007 a 2010</br>
 
-<br>Educa Minas:</br>
-<b>Pós Graduação</br>
+<br>Pós Graduação:</br>
+<b>Educa Minas</br>
 <b>Agronegócio</br>
 2024</br>
 
