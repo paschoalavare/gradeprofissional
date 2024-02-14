@@ -398,5 +398,53 @@ Ano 2023.</br>
 <b>Banco Stander.</br>
 Ano 2023.</br>
 
+<br>Técnicas de Exploração de Vulnerabilidades.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Pós-Exploração em Sistemas Comprometidos.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Man in the Middle: Ataques e Mitigações.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Entendendo um Ransomware na Prática com Python.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Seus Primeiros Passos no Linux.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Testes de Invasão e Busca Por Vulnerabilidades.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Deixando Seu LinkedIn Atrativo.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Turbine Seu Currículo na DIO.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Transformando seu Conhecimento em Artigos Técnicos.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Se Preparando Para Uma Entrevista.</br>
+<b>Banco Stander.</br>
+Ano 2023.</br>
+
+<br>Santander Bootcamp Cibersegurança.</br>
+<b>Banco Stander.</br>
+<b>Período 53 horas.</br>
+Ano 2023.</br>
+
+
+
+
 </html>
 
